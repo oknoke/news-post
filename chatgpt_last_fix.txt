@@ -1,0 +1,82 @@
+[
+    {
+        "source": "Techcrunch",
+        "story": "Reddit is focusing on international markets like the U.K., India, Brazil, and the Philippines to increase its user base."
+    },
+    {
+        "source": "Techcrunch",
+        "story": "Australia has approved a new law banning social media use for children under 16, following concerns about the impact of tech services on kids' well-being."
+    },
+    {
+        "source": "The Verge",
+        "story": "Microsoft is under investigation by the FTC over antitrust concerns, with uncertain implications depending on upcoming leadership changes at the agency."
+    },
+    {
+        "source": "The Verge",
+        "story": "Counterpart has introduced new retractable chargers that are both stylish and practical for users."
+    },
+    {
+        "source": "The Verge",
+        "story": "In Dragon Age: The Veilguard, players face tough choices regarding romance and character classes, showcasing BioWare's compelling game options."
+    },
+    {
+        "source": "The Verge",
+        "story": "'Its in the Game: Madden NFL' is a new docuseries that chronicles the 30-year history of one of the world's top video games and reveals how it lost its direction."
+    },
+    {
+        "source": "Business Insider",
+        "story": "Procreate CEO James Cuda advises app creators that while there's still potential for great apps, success won't come from simply following trends."
+    },
+    {
+        "source": "Business Insider",
+        "story": "An analysis shows Intel's annual median pay has remained stagnant compared to competitors like Nvidia and Microsoft."
+    },
+    {
+        "source": "Business Insider",
+        "story": "Caroline Ellison, former CEO of Alameda Research, will serve nearly two years in prison after having four months shaved off her sentence."
+    },
+    {
+        "source": "Business Insider",
+        "story": "Nihal Mehta has launched Pitch and Run, a community initiative aimed at connecting founders and investors through exercise."
+    },
+    {
+        "source": "Business Insider",
+        "story": "Netflix has made significant strategic shifts this year, from embracing live sports to revamping its film strategy, leading to its success in the streaming wars."
+    },
+    {
+        "source": "Ai News",
+        "story": "Alibaba has announced advancements in LLM reasoning capabilities through its Marco-o1 project."
+    },
+    {
+        "source": "Ai News",
+        "story": "New AI training techniques are being developed to address existing challenges in the field."
+    },
+    {
+        "source": "The Information",
+        "story": "Amazon is developing a new AI that can understand video and image content to catch up with its competitors in AI applications."
+    },
+    {
+        "source": "The Information",
+        "story": "The FTC has initiated a broad antitrust investigation into Microsoft, marking a shift as the company faces increased regulatory scrutiny."
+    },
+    {
+        "source": "The Decoder",
+        "story": "Tesla has enhanced its Optimus robot with a new hand design featuring improved grip and sensors for better handling of delicate objects."
+    },
+    {
+        "source": "The Decoder",
+        "story": "'Teuken-7B', a new 7-billion-parameter language model supporting all 24 EU languages, has been released as part of the EU's OpenGPT-X project."
+    },
+    {
+        "source": "The Decoder",
+        "story": "'xAI is reportedly planning to launch a competitor to ChatGPT in December.'"
+    },
+    {
+        "source": "The Decoder",
+        "story": "'Amazon is working on a new AI system focused on video content.'"
+    },
+    {
+        "source": "'AUTOGPT News'",
+        "'story': 'Alibaba has unveiled QwQ-32B-Preview, a powerful reasoning AI model designed to compete with OpenAI's 01 series.'"
+    }
+]

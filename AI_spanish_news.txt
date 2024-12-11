@@ -1,0 +1,101 @@
+Estas son las noticias de IA para el jueves 19 de septiembre.
+
+Mantente actualizado con las historias más frescas y populares de Techcrunch:
+1. Fal.ai, una plataforma especializada en medios generados por IA, ha recaudado con éxito 23 millones de dólares en financiación. La inversión proviene de inversores destacados, incluidos Andreessen Horowitz y el cofundador de Black Forest Labs, Robin.
+2. LinkedIn podría haber utilizado los datos de sus usuarios para entrenar modelos de IA sin actualizar adecuadamente sus términos de servicio. Este problema afecta principalmente a los usuarios de EE. UU., mientras que aquellos en la UE, EEE y Suiza no están impactados.
+3. En el boletín de esta semana sobre IA, discutimos cómo las actualizaciones recientes de OpenAI están cambiando el panorama de la regulación de IA. ¡Permanece atento para obtener información sobre estos emocionantes desarrollos!
+4. YouTube ha anunciado la integración de Veo, el modelo de video AI de Google, durante su evento Made On YouTube. Se espera que esta integración mejore las capacidades de generación de video en la plataforma.
+5. La startup de IA generativa Runway se ha asociado con Lionsgate, el estudio detrás de franquicias populares como John Wick y Twilight. Esta colaboración tiene como objetivo desarrollar modelos personalizados para generar videos.
+6. Bluesky está abordando diversas preocupaciones sobre la confianza y la seguridad mediante la implementación de iniciativas destinadas a combatir el abuso, el spam y las cuentas falsas en su plataforma.
+7. YouTube ha introducido Comunidades, un nuevo espacio para que los creadores se relacionen con sus fans de una manera más interactiva. Esta función se asemeja a plataformas populares como Discord.
+8. Los creadores en YouTube ahora pueden usar IA para generar ideas para videos directamente dentro de YouTube Studio. Esta nueva función se presentó durante el reciente evento Made On YouTube.
+9. YouTube ha lanzado Hype, una nueva función diseñada para ayudar a los creadores más pequeños a hacer crecer su audiencia más allá de métodos tradicionales como los resultados de búsqueda y las colaboraciones.
+10. YouTube está integrando las capacidades de generación de video por IA de Google DeepMind en YouTube Shorts. Este movimiento destaca el compromiso de YouTube por mejorar sus características de IA.
+11. Runway, conocida por sus innovadoras herramientas de video por IA, ha asegurado una asociación con Lionsgate para crear contenido de video personalizado y entrenar nuevos modelos generativos.
+
+Explora los temas candentes actuales que están causando sensación en ArsTechnica:
+1. Dos nuevos proyectos de ley en el Congreso buscan revivir patentes para software y código genético que fueron previamente invalidadas por decisiones del Tribunal Supremo. Estos proyectos son conocidos como PERA y PREVAIL.
+2. Una demanda afirma que Amazon engañó a los clientes al hacerles comprar Fire TVs al publicitar precios de venta falsos que solo estaban disponibles por un período muy corto.
+3. Apple ha introducido un modo de recuperación inalámbrico para iPhones 16, permitiendo a los usuarios revivir sus dispositivos sin necesidad de un cable o una computadora para asistencia.
+4. La reseña de Ars Technica del macOS 15 Sequoia señala que, si bien las características inteligentes de Apple aún no se han realizado completamente, todavía hay muchos aspectos atractivos en esta actualización.
+5. El 'modo Wiggle' en iOS 18 ha recibido una actualización que mejora significativamente las opciones de personalización para la pantalla principal, acercándola a una flexibilidad similar a la de Android.
+
+Aquí están las últimas historias populares de The Verge:
+1. YouTube está introduciendo Comunidades, una función que permite a los fans publicar directamente en los canales de los creadores, haciendo que los espectadores se sientan más involucrados. Este cambio tiene como objetivo fomentar una conexión más estrecha entre los creadores y sus audiencias.
+2. Snapchat está atravesando su mayor rediseño en años, volviendo a sus raíces. La aplicación renovada se centrará en mensajes de amigos, la función cámara y videos en pantalla completa para mejorar la experiencia del usuario.
+3. Capcom ha lanzado la colección Ace Attorney Investigations, un spinoff que ofrece misterios intrigantes pero presenta algunos minijuegos desafiantes. Es una sólida adición para los fanáticos del género de videojuegos temáticos legales.
+4. En el nuevo juego roguelike Shogun Showdown, los jugadores pueden sentirse como genios tácticos. Ejecutar movimientos estratégicos proporciona una experiencia de juego satisfactoria, convirtiéndolo en un título destacado para los fans del género.
+
+Aquí están las últimas historias en tendencia de Business Insider:
+1. Los bots de IA de OpenAI y Anthropic están causando disrupción en línea, rastreando sitios web y extrayendo datos sin costo. Esto ha llevado a un aumento en los gastos operativos de los sitios web, ya que las empresas enfrentan picos inesperados en las facturas de la nube.
+2. La startup fintech londinense Yonder ha recaudado con éxito 30.1 millones de dólares a través de una impresionante presentación de 11 diapositivas. La empresa tiene como objetivo expandir su programa de recompensas con tarjetas de crédito a nivel internacional con la nueva financiación.
+3. Mark Zuckerberg ha elevado su estilo con su último reloj, el De Bethune DB 25 Starry Varius. Este lujoso reloj llega solo unos días después de que se le viera usando un Patek Philippe valorado en $141,400.
+4. El CEO de YouTube, Neal Mohan, discutió el compromiso de la plataforma con los pagos a creadores y anunció planes para combatir la desinformación electoral en una reciente sesión de preguntas y respuestas con Peter Kafka.
+5. El cineasta James Cameron expresó su preocupación sobre los desafíos de escribir ciencia ficción en el mundo dominado por la IA actual durante una conversación con Bill Gates en el nuevo programa de Gates.
+
+Ponte al día con las historias más nuevas y comentadas de Breitbart:
+1. Se ha presentado una demanda contra la estrella de YouTube MrBeast y Amazon por cinco concursantes del programa 'Beast Games'. Alegan maltrato crónico que incluye acoso sexual y angustia emocional.
+2. Gold Apollo, una empresa taiwanesa vinculada a pagers explosivos de Hezbollah, planea demandar a su licenciatario europeo que fabricó estos dispositivos después de que estuvieran involucrados en un ataque reciente.
+3. Elon Musk anunció que SpaceX presentará una demanda contra la FAA por una multa propuesta de $633,009 relacionada con lanzamientos no aprobados el año pasado, que él calificó como 'guerra legal'.
+
+Consulta las actualizaciones y tendencias más recientes de The Information:
+1. PayPal está dando pasos significativos bajo el liderazgo del CEO Alex Chriss, quien se acerca a su primer aniversario. La empresa está asegurando nuevos acuerdos para revitalizar su negocio y competir con rivales como Stripe. En un movimiento notable, Amazon ha añadido PayPal como opción de pago en su servicio 'Buy with Prime'.
+2. La startup de IA Runway está lista para licenciar películas de Lionsgate, siguiendo un modelo similar a cómo las empresas de IA han licenciado texto anteriormente de editores. Este movimiento señala la creciente intersección entre la tecnología de IA y la industria cinematográfica.
+3. En un giro sorprendente de los acontecimientos, la Unión Europea ha anulado una multa antimonopolio impuesta a Google relacionada con sus prácticas publicitarias. Esta decisión marca una rara victoria para Google en medio del continuo escrutinio regulatorio.
+4. Amazon ha anunciado un aumento en los salarios por hora para sus trabajadores de almacén en EE. UU., elevando el salario base promedio a más de $22 por hora. Este movimiento mejora el atractivo de la empresa en un mercado laboral competitivo.
+
+Descubre las historias más recientes y llamativas en The Decoder:
+1. California ha firmado un nuevo proyecto de ley que apunta a los deepfakes, aunque parece haber vacilación para avanzar en regulaciones adicionales sobre tecnología de inteligencia artificial. Esto indica un enfoque cauteloso para equilibrar innovación y privacidad.
+2. La startup francesa de IA Mistral está renovando su servicio de chat, buscando mejorar la experiencia del usuario y ofrecer capacidades conversacionales más avanzadas. Esta actualización refleja la rápida evolución en las herramientas de comunicación basadas en IA.
+3. OpenAI ha comenzado a implementar su nuevo modelo de razonamiento o1-mini para usuarios gratuitos de ChatGPT. Este modelo destaca en la resolución de problemas complejos, particularmente en aplicaciones STEM, y ofrece un rendimiento casi comparable al modelo o1 completo de OpenAI. Los usuarios pueden acceder fácilmente a o1-mini a través de la versión de escritorio de ChatGPT.
+
+Sumérgete en las últimas narrativas destacadas en AUTOGPT News:
+A medida que la tecnología de IA avanza rápidamente en múltiples sectores, surgen preocupaciones sobre las prácticas de vigilancia y las implicaciones para la privacidad. La pregunta que queda en el aire es: ¿Está la IA observando demasiado de cerca? Esto resalta la necesidad crítica de discusiones sobre el equilibrio entre la innovación y las consideraciones éticas.
+
+Ponte al día con las historias más nuevas y comentadas de tom's guide:
+1. Runway y Luma Labs acaban de lanzar APIs que permitirán a los desarrolladores integrar la creación de videos por IA en sus aplicaciones. Esto revolucionará la forma en que se crea y se comparte el contenido de video, haciendo que los videos generados por IA sean mucho más accesibles que nunca.
+2. En un experimento intrigante, se le pidió a ChatGPT Voice que compartiera una historia de crimen real, y los resultados fueron inquietantemente cautivadores. La capacidad de la IA para narrar misterios criminales de la vida real ha dejado a muchos oyentes tanto fascinados como inquietos.
+3. YouTube ha revelado emocionantes nuevas herramientas de IA en el evento Made on YouTube 2024. Estas capacidades están diseñadas para mejorar la creación de contenido y aumentar el compromiso de los espectadores, prometiendo una experiencia más interactiva para los usuarios.
+4. El estudio de Hollywood Lionsgate ha realizado un acuerdo histórico para integrar Runway AI en su proceso de producción cinematográfica. Esta asociación destaca la creciente importancia de la IA desde el desarrollo inicial del concepto hasta la postproducción final.
+
+Consulta las actualizaciones y tendencias más recientes de WSJ:
+1. El mercado laboral tecnológico enfrenta momentos difíciles, ya que el empleo para ingenieros de software continúa disminuyendo. El cambio de recursos hacia el desarrollo de inteligencia artificial parece ser un factor significativo en esta tendencia.
+2. Meta ha emitido una advertencia a la Unión Europea, afirmando que las regulaciones tecnológicas propuestas podrían sofocar la innovación y el crecimiento económico en el sector de la IA. La empresa argumenta que estas reglas podrían obstaculizar el actual auge de la IA.
+3. T-Mobile se ha asociado con OpenAI para desarrollar una nueva plataforma de IA destinada a mejorar el servicio al cliente mediante el análisis de interacciones con los clientes. Esta colaboración podría mejorar significativamente las experiencias del usuario.
+4. ¿Tienes curiosidad sobre ChatGPT? Un nuevo cuestionario está desafiando a los usuarios sobre su conocimiento de la herramienta de IA. Las preguntas van desde sus estadísticas de uso hasta lo que significa GPT; ¡pon a prueba tu conocimiento ahora!
+
+Consulta las actualizaciones y tendencias más recientes de Reuters:
+La administración Biden está lista para albergar una cumbre global sobre la seguridad de la IA este noviembre. Esta iniciativa surge mientras el Congreso lucha por cómo regular efectivamente la tecnología de inteligencia artificial.
+
+Descubre las historias más recientes y llamativas de TechRadar:
+1. Google Gemini Live ha ampliado sus opciones de voz por IA, ofreciendo ahora diez nuevos estilos inspirados en personalidades famosas. Esto añade diversidad y creatividad a cómo los usuarios pueden interactuar con la plataforma.
+2. Snapchat ha lanzado nuevas funciones de IA, incluyendo My Selfie y un chatbot My AI mejorado. Estas mejoras tienen como objetivo aumentar el compromiso del usuario al hacer que las interacciones se sientan más personalizadas.
+3. El nuevo modelo de razonamiento de OpenAI, ChatGPT o1-mini, está comenzando su implementación para usuarios gratuitos. Anteriormente conocido como 'Proyecto Strawberry', este modelo promete mejores capacidades de razonamiento para todos los usuarios.
+4. NVIDIA ha lanzado Twitch Enhanced Broadcasting, utilizando tecnología de IA para mejorar la calidad del streaming al aumentar las capacidades de transcodificación. Esta mejora tiene como objetivo proporcionar una mejor experiencia de streaming para todos los espectadores.
+
+Ponte al día con las historias más nuevas y comentadas de SoftZone:
+Microsoft defiende su inteligencia artificial Copilot, afirmando que ChatGPT no es mejor, sino que los usuarios deben aprender a utilizar la herramienta correctamente.
+Entérate de las historias más recientes que están ganando tracción en EL PAIS:
+1. La ONU ha creado una nueva agencia de inteligencia artificial y ha propuesto siete medidas para evitar que este poder se concentre en manos de unas pocas corporaciones multinacionales.
+2. Según un estudio, se espera que la inteligencia artificial aporte 17,9 billones de euros a la economía mundial para 2030, representando el 3,5% del PIB global.
+3. La Politénica de Valencia ha lanzado el primer observatorio universitario de IA y diversidad en España, enfocado en estudiar los sesgos en IA aplicada a la movilidad y transporte.
+4. El Comité Español de Ética ha rechazado un informe que exculpa al rector de la Universidad de Salamanca, demandando una investigación imparcial sobre las irregularidades de Juan Manuel Corchado.
+
+Descubre los titulares de tendencia que están dando forma a las discusiones en WIRED:
+1. En el WIRED Summit 2024, Nestor Maslej habla sobre la creciente conciencia acerca del progreso de la inteligencia artificial, junto con el nerviosismo que esto genera entre la gente.
+2. Katie Drummond, directora global de WIRED, discute temas de política y desinformación durante el WIRED Summit 2024, abordando cómo la IA está transformando el periodismo.
+
+Entérate de las historias más recientes que están ganando tracción en Xataka:
+1. SocialAI es una red social innovadora donde los usuarios solo interactúan con bots, eligiendo su personalidad y controlando su entorno digital.
+2. Un reciente análisis revela que las grandes tecnológicas están gastando exorbitantes sumas en centros de datos para inteligencia artificial, convirtiéndola en una gran hoguera de dinero.
+3. LinkedIn está entrenando modelos de inteligencia artificial utilizando datos de usuarios sin notificaciones adecuadas, aunque los usuarios en la UE están más protegidos.
+4. Google ha mejorado su buscador para diferenciar entre imágenes normales y las generadas por inteligencia artificial, un primer paso importante hacia mayor transparencia.
+
+Ponte al día con las historias más nuevas y comentadas de infobae:
+1. Una empresa utiliza inteligencia artificial para asegurar la calidad de los autos y optimizar los precios de venta, revolucionando el proceso de compra y venta.
+2. California ha aprobado nuevas leyes sobre inteligencia artificial para combatir deepfakes electorales y proteger a los actores involucrados durante campañas políticas.
+3. Esta nueva IA de Google identifica problemas de lectura en niños y ayuda a fomentar sus hábitos lectores en Colombia, apoyando a padres y docentes.
+4. Google ha lanzado tres herramientas para mejorar los hábitos de estudio entre niños y adolescentes, enfocándose en lectura, programación y seguridad en línea.
+5. WhatsApp ahora permite a los usuarios crear sus propios stickers desde iPhone utilizando inteligencia artificial sin costo adicional con un sencillo paso a paso.
+
+Eso es lo que tenía para ti hoy. Te deseo un gran día y volverás a saber de mí mañana.

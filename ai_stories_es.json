@@ -1,0 +1,37 @@
+{
+    "SoftZone": [
+        "As users increasingly migrate to Bluesky, a social media platform that does not allow private profiles, many are seeking ways to protect their privacy. The recent changes on Twitter (now called X) have sparked controversy, prompting this shift. Users will need to familiarize themselves with Bluesky's unique features as they transition away from X.",
+        "WhatsApp is rolling out a new feature that aims to eliminate excuses for not responding to messages. This is particularly important for users who juggle personal and professional communications and often feel overwhelmed by the volume of messages they receive. This update could help streamline communication and enhance responsiveness."
+    ],
+    "GENBETA": [
+        "ChatGPT is making waves by introducing a new feature that allows users to run Python code directly within its Canvas tool. This functionality not only enables real-time debugging but also enhances the coding experience for users, particularly programmers, who can now execute their code and see immediate results.",
+        "The CEO of Salesforce has announced that his company will not be hiring engineers in 2025 due to increased productivity achieved through artificial intelligence. The company has fully adopted its new AI solutions to showcase their effectiveness to clients, suggesting a shift in workforce needs driven by technological advancements.",
+        "X (formerly Twitter) has made its AI tool Grok available for everyone without requiring a paid subscription, furthering Elon Musk's efforts to integrate AI features into the platform. This move opens up AI capabilities to a wider audience, although there may be limitations on usage."
+    ],
+    "EL PAIS": [
+        "A proposed Cultural project aimed at regulating generative AI has sparked heated debates among artists. The draft decree seeks to ensure creators receive compensations when their work is utilized for AI training, but it has faced significant criticism from various authors concerned about its implications.",
+        "An experiment shows that an artificial intelligence can identify individuals based on their walking patterns with 89% accuracy. This controversial method raises questions about privacy and reliability, especially as it is already being used in legal contexts in some countries.",
+        "Laura Opazo discusses innovation and sustainable technology in fashion with experts who explore the potential of using materials like bacteria and algae to replace harmful synthetic fabrics. The conversation sheds light on whether consumers are aware of these sustainable shifts in production processes.",
+        "Barcelona has been selected by the European Commission to host one of only seven artificial intelligence factories in Europe. The initiative will be led by the Barcelona Supercomputing Center, marking a significant step for the city in advancing AI research and development."
+    ],
+    "WIRED": [
+        "OpenAI has officially launched Canvas, its new tool designed for programmers, enabling real-time coding feedback and suggestions. This release promises to enhance productivity by allowing developers to work more effectively with instant corrections and collaborative features."
+    ],
+    "Xataka": [
+        "A peculiar message is appearing across San Francisco urging companies to stop hiring humans. This provocative campaign highlights the advantages of machines: they don't complain and can work tirelessly around the clock.",
+        "OpenAI's ChatGPT Pro plan is now available at $200 per month, positioning itself as a premium tool comparable to other professional-grade software that significantly boosts productivity and returns on investment.",
+        "ChatGPT's Canvas feature is now available for free to all users, including those in Spain. This previously premium function is expected to become popular among various users looking for enhanced interactivity in coding.",
+        "Sora, OpenAI's new video generator powered by AI, is still in early stages of development. While it doesn't yet offer capabilities comparable to experienced filmmakers like Steven Spielberg, its release raises questions about future advancements."
+    ],
+    "infobae": [
+        "The integration of artificial intelligence in classrooms presents both challenges and opportunities. Rather than replacing effort, AI should be seen as a tool to enhance creativity, research skills, and critical thinking among students.",
+        "Artificial intelligence has identified the most popular tourist spots in Mexico City based on historical significance, architecture, and gastronomy criteria. These findings could influence tourism strategies in the region.",
+        "In a recent discovery in the southern United States, researchers have identified a key energy source with the potential to transform global access to clean energy resources. This finding could have significant implications for environmental sustainability and energy policy.",
+        "During his first-year speech, Argentine President Javier Milei announced plans for a nuclear energy initiative aimed at advancing artificial intelligence technology. Details of this ambitious project are expected soon.",
+        "Taiwanese semiconductor giant TSMC has reported record monthly revenues in October due to a surge in demand driven by artificial intelligence technologies. The company's income rose by 22.3%, demonstrating AI's impact on industrial growth.",
+        "Google Vids has launched within Workspace, introducing AI functionalities that enable users to create collaborative videos of up to ten minutes long with integrated content and voiceovers. This tool aims to enhance teamwork and creativity among professionals.",
+        "Artificial intelligence has rendered artistic interpretations of Juan Diego and the Virgin of Guadalupe as part of celebrations for December 12th, an important date for the Catholic community. These representations blend tradition with modern technology.",
+        "A fascinating analysis reveals the most unique words used in Colombia\u2019s diverse linguistic landscape according to artificial intelligence research. Expressions like 'ch\u00e9vere' and 'jartar' highlight regional variations that enrich Colombia's cultural identity.",
+        "In a landmark sale at Sotheby's London auction house, an artwork created by an AI robot named Ai-Da sold for a record-breaking $1.08 million. This event marks a notable intersection between art and artificial intelligence, sparking conversations about the future of creativity."
+    ]
+}

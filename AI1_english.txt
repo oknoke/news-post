@@ -1,0 +1,74 @@
+These are the AI news for Thursday, September 19
+
+Check out the newest updates and trends from Techcrunch:
+1. Fal.ai, a platform specializing in AI-generated media, has successfully raised $23 million in funding. The investment comes from notable investors, including Andreessen Horowitz and Black Forest Labs co-founder Robin.
+2. LinkedIn may have used its users' data to train AI models without properly updating its terms of service. This issue primarily affects U.S. users, while those in the EU, EEA, and Switzerland are not impacted.
+3. In this week's newsletter on AI, we discuss how OpenAI's recent updates are changing the landscape of AI regulation. Stay tuned for insights into these exciting developments!
+4. YouTube has announced the integration of Veo, Google's AI video model, during its Made On YouTube event. This integration is expected to enhance video generation capabilities on the platform.
+5. Generative AI startup Runway has partnered with Lionsgate, the studio behind popular franchises like John Wick and Twilight. This collaboration aims to develop custom video-generating models.
+6. Bluesky is addressing various trust and safety concerns by piloting initiatives aimed at combating abuse, spam, and fake accounts on its platform.
+7. YouTube has introduced Communities, a new space for creators to engage with their fans in a more interactive way. This feature resembles popular platforms like Discord.
+8. Creators on YouTube can now use AI to brainstorm video ideas directly within YouTube Studio. This new feature was unveiled during the recent Made On YouTube event.
+9. YouTube has launched Hype, a new feature designed to help smaller creators grow their audience beyond traditional methods like search results and collaborations.
+10. YouTube is integrating Google DeepMind's AI video generation capabilities into YouTube Shorts. This move highlights YouTube's commitment to enhancing its AI features.
+11. Runway, known for its innovative AI video tools, has secured a partnership with Lionsgate to create custom video content and train new generative models.
+
+Stay in the loop with the latest stories making headlines on ArsTechnica:
+1. Two new bills in Congress aim to revive patents for software and genetic code that were previously invalidated by Supreme Court decisions. These bills are known as PERA and PREVAIL.
+2. A lawsuit claims that Amazon misled customers into purchasing Fire TVs by advertising false sales prices that were only available for a very short period.
+3. Apple has introduced a wireless recovery mode for iPhones 16, allowing users to revive their devices without needing a cable or a computer for assistance.
+4. The Ars Technica review of macOS 15 Sequoia notes that while Apple's Intelligence features aren't fully realized yet, there are still plenty of appealing aspects in this update.
+5. 'Wiggle mode' in iOS 18 has received an update that significantly improves customization options for the home screen, bringing it closer to Android-like flexibility.
+
+Stay in the loop with the latest stories making headlines on The Verge:
+1. YouTube is introducing Communities, a feature that allows fans to post directly on creators' channels, making viewers feel more engaged. This change aims to foster a closer connection between creators and their audiences.
+2. Snapchat is undergoing its biggest redesign in years, returning to its roots. The revamped app will focus on messages from friends, the camera feature, and full-screen videos to enhance user experience.
+3. Capcom has released the Ace Attorney Investigations Collection, a spinoff that offers intriguing mysteries but features some challenging minigames. It's a solid addition for fans of the lawyer-themed video game genre.
+4. In the new roguelike game Shogun Showdown, players can feel like tactical geniuses. Executing strategic moves provides a satisfying gameplay experience, making it a standout title for fans of the genre.
+
+Stay in the loop with the latest stories making headlines on Business Insider:
+1. OpenAI and Anthropic's AI bots are causing disruption online, crawling websites and scraping data without cost. This has led to increased operational expenses for websites, as businesses face unexpected cloud bill spikes.
+2. London fintech startup Yonder has successfully raised $30.1 million through an impressive 11-slide pitch deck. The company aims to expand its credit card rewards program internationally with the new funding.
+3. Mark Zuckerberg has taken his style up a notch with his latest timepiece, the De Bethune DB 25 Starry Varius. This luxurious watch comes just days after he was spotted wearing a $141,400 Patek Philippe.
+4. YouTube's CEO Neal Mohan discussed the platform's commitment to creator payouts and announced plans to combat election misinformation in a recent Q&A session with Peter Kafka.
+5. Filmmaker James Cameron expressed concerns about the challenges of writing science fiction in today's AI-dominated world during a conversation with Bill Gates on Gates’ new show.
+
+Get the scoop on the most recent stories gaining traction on Breitbart:
+1. A lawsuit has been filed against YouTube star MrBeast and Amazon by five contestants from the game show 'Beast Games.' They allege chronic mistreatment including sexual harassment and emotional distress.
+2. Gold Apollo, a Taiwanese company linked to exploding Hezbollah pagers, is planning to sue its European licensee that manufactured these devices after they were involved in a recent attack.
+3. Elon Musk announced that SpaceX will file a lawsuit against the FAA over a proposed fine of $633,009 related to unapproved launches last year, which he referred to as 'lawfare.'
+
+Get the scoop on the most recent stories gaining traction on The Information:
+1. PayPal is making significant strides under CEO Alex Chriss, who is nearing his first anniversary. The company is securing new deals to rejuvenate its business and compete with rivals like Stripe. In a notable move, Amazon has now added PayPal as a checkout option for its 'Buy with Prime' service.
+2. AI startup Runway is set to license films from Lionsgate, following a model similar to how AI companies have previously licensed text from publishers. This move signals the growing intersection of AI technology and the film industry.
+3. In a surprising turn of events, the European Union has overturned a Google antitrust fine concerning its ad tech practices. This decision marks a rare victory for Google amidst ongoing regulatory scrutiny.
+4. Amazon has announced an increase in hourly wages for its U.S. warehouse workers, raising the average base pay to over $22 an hour. This move enhances the company's appeal in a competitive labor market.
+
+Uncover the trending headlines shaping discussions on The Decoder:
+1. California has signed a new bill targeting deepfakes, although there seems to be hesitation on advancing further regulations on artificial intelligence technology. This indicates a cautious approach to balancing innovation and privacy.
+2. French AI startup Mistral is revamping its chat service, aiming to enhance user experience and deliver more advanced conversational capabilities. This update reflects the rapid evolution in AI communication tools.
+3. OpenAI has begun rolling out its new o1-mini reasoning model for free users of ChatGPT. This model excels in solving complex problems, particularly in STEM applications, and offers nearly comparable performance to OpenAI's full o1 model. Users can easily access o1-mini via the desktop version of ChatGPT.
+
+Catch up on the newest and most talked-about stories from AUTOGPT News:
+As AI technology progresses rapidly across multiple sectors, concerns are rising about surveillance practices and privacy implications. The question looms: Is AI watching too closely? This highlights the critical need for discussions on the balance between innovation and ethical considerations.
+
+Discover the most recent buzzworthy stories from tom's guide:
+1. Runway and Luma Labs have just launched APIs that will allow developers to integrate AI video creation into their apps. This is set to revolutionize how video content is created and shared, making AI video much more accessible than ever before.
+2. In an intriguing experiment, ChatGPT Voice was asked to share a true crime story, and the results were eerily captivating. The AI's ability to narrate real-life crime mysteries has left many listeners both fascinated and spooked.
+3. YouTube has unveiled exciting new AI tools at the Made on YouTube 2024 event. These capabilities are designed to enhance content creation and boost viewer engagement, promising a more interactive experience for users.
+4. Hollywood studio Lionsgate has made a landmark deal to integrate Runway AI into its filmmaking process. This partnership highlights the growing importance of AI from initial concept development through to final post-production.
+
+Explore the current hot topics making waves on WSJ:
+1. The tech job market is facing tough times as employment for software engineers continues to decline. The shift in resources towards artificial intelligence development seems to be a significant factor in this trend.
+2. Meta has issued a warning to the European Union, stating that proposed tech regulations could stifle innovation and economic growth in the AI sector. The company argues that these rules may hinder the ongoing AI boom.
+3. T-Mobile has partnered with OpenAI to develop a new AI platform aimed at improving customer service by analyzing customer interactions. This collaboration could enhance user experiences significantly.
+4. Curious about ChatGPT? A new quiz is challenging users on their knowledge of the AI tool. Questions range from its usage statistics to what GPT stands for—test your knowledge now!
+
+Get the scoop on the most recent stories gaining traction on Reuters:
+The Biden administration is set to host a global summit on AI safety this November. This initiative comes as Congress struggles with how to effectively regulate artificial intelligence technology.
+
+Here are the latest trending stories from TechRadar:
+1. Google Gemini Live has expanded its AI voice options, now offering ten new styles inspired by famous personalities. This adds diversity and creativity to how users can interact with the platform.
+2. Snapchat has rolled out new AI features including My Selfie and an upgraded My AI chatbot. These upgrades aim to enhance user engagement by making interactions feel more personalized.
+3. OpenAI's new reasoning model, ChatGPT o1-mini, is beginning its rollout to free users. Previously known as 'Project Strawberry', this model promises improved reasoning capabilities for all users.
+4. NVIDIA has launched Twitch Enhanced Broadcasting, utilizing AI technology to improve stream quality by increasing transcoding capabilities. This enhancement aims to provide a better streaming experience for all viewers.
